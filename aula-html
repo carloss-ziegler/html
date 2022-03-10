@@ -1,0 +1,58 @@
+<html>
+<head>
+	<title>Este é o nome da página</title>
+		<!-- comentario-->
+</head>
+<body>
+    
+	o body contem todo o texto e todas as imagens que constituem a pagina </body>
+    <h1>Heading nivel 1</h1>
+    <h2>Heading nivel 2</h2>
+    <h3>Heading nivel 3</h3>
+    <h4>Heading nivel 4</h4>
+    <h5>Heading nivel 5</h5>
+    <h6>Heading nivel 6</h6>
+    <hr size=4px width="100%">
+    <b>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas eum iusto ullam totam impedit quae nam voluptatum <br> Harum quo accusantium sint alias sapiente dolor, aspernatur qui provident eveniet distinctio.</b><br>
+    <hr size=4px width="100%">
+    <i>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas eum iusto ullam totam impedit quae nam voluptatum <br> Harum quo accusantium sint alias sapiente dolor, aspernatur qui provident eveniet distinctio.</i><br>
+    <hr size=4px width="100%">
+    <u>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas eum iusto ullam totam impedit quae nam voluptatum <br> Harum quo accusantium sint alias sapiente dolor, aspernatur qui provident eveniet</u>
+    <hr size=4px width="100%">
+    <br>
+    <ul> lista
+        <li>item 1</li>
+        <li>item2</li>
+        <li>item3</li>
+        <li>item4</li>
+    </ul>
+    <hr size=4px width="100%">
+    <ul type="square" > lista
+        <li>item 1
+            <ul type="disc">
+                <li>sub-item</li>
+                <li>sub-item2</li>
+            </ul>
+        </li>
+        <li>item2
+            <ul type="square">
+                <li>sub-item</li>
+                <li>sub-item2</li>
+            </ul>
+        </li>
+        <li>item3
+            <ul type="circle">
+                <li>sub-item</li>
+                <li>sub-item2</li>
+            </ul>
+        </li>
+    </ul>
+    <hr size=4px width="100%">
+    <ul type="circle"> lista
+        <li>item 1</li>
+        <li>item2</li>
+        <li>item3</li>
+        <li>item4</li>
+    </ul>
+</body>
+</html>
